@@ -1,0 +1,35 @@
+nav a {
+    color:crimson;
+}
+
+.about blockquote {
+    background-color: #eaeaea;
+}
+
+.users span:nth-child(2) {
+    color:crimson;
+    font-weight: bold;
+}
+
+.creators {
+    font-family: 'Lato', Arial, sans-serif;
+    text-decoration: none;
+}
+
+.creators a {
+    font-family: 'PT Serif', 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.cta h2 {
+    font-family: 'Lato', Arial, sans-serif;
+    color:crimson;
+}
+
+.cta ul {
+    text-decoration: underline;
+}
+
+.cta:last-child {
+    text-decoration: none;
+}
